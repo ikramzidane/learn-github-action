@@ -1,1 +1,1 @@
-console.log('I\'m gonna create a conflict on purpose');
+console.log('this is a feature');
